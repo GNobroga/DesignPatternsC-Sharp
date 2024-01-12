@@ -1,1 +1,1 @@
-# GOF
+# GOF - Padrões de Projetos
